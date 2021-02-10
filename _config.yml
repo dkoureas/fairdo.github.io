@@ -1,1 +1,55 @@
-theme: jekyll-theme-minimal
+# Basic
+name:               "FAIR Digial Object"
+title:              "FAIR Digital Object" 
+description:        "this is a page the FAIR Digital Object"
+
+
+# URL
+url:                https://fairdo.github.io
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "publications"
+    href:           "/publication"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
