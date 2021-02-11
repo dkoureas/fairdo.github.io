@@ -5,7 +5,6 @@ permalink: /publication/
 
 Publications related to the FAIR Digital Object concept. 
 
-
 <hr>
 
 ### 2021
@@ -18,5 +17,18 @@ De Smedt, K., Koureas, D. and Wittenburg, P., 2020. _FAIR digital objects for sc
 
 Islam, S., Hardisty, A., Addink, W., Weiland, C. and Glöckler, F., 2020. _Incorporating RDA Outputs in the Design of a European Research Infrastructure for Natural Science Collections_. Data Science Journal, 19(1). [DOI](http://doi.org/10.5334/dsj-2020-050)
 
+National Institute of Standards and Technology, United States Department of Commerce. August 2020. _Facilitating the Adoption of the FAIR Digital Object Framework in Material Science_. [URL](https://www.nist.gov/programs-projects/facilitating-adoption-fair-digital-object-framework-material-science)
+
 Schwardmann, U., 2020. _Digital Objects–FAIR Digital Objects: Which Services Are Required?_. Data Science Journal, 19(1). [DOI](http://doi.org/10.5334/dsj-2020-015)
+
+
+### 2019 
+
+Strawn, G., 2019, July. _Open Science, Business Analytics, and FAIR Digital Objects_. In 2019 IEEE 43rd Annual Computer Software and Applications Conference (COMPSAC) (Vol. 2, pp. 658-663). IEEE. [DOI](https://doi.org/10.1109/COMPSAC.2019.10283)
+
+
+### 2018 
+
+Schultes, E. and Wittenburg, P., 2018, October. _FAIR Principles and Digital Objects: Accelerating convergence on a data infrastructure_. In International Conference on Data Analytics and Management in Data Intensive Domains (pp. 3-16). Springer, Cham. [DOI](http://doi.org/10.1007/978-3-030-23584-0_1)
+
 
