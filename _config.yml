@@ -1,3 +1,7 @@
+
+# Build settings
+theme: uswds-jekyll
+
 # Site settings
 title: FAIR Digital Objects
 description: Turning Data to Knowledge
