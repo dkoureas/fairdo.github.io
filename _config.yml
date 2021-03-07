@@ -1,7 +1,4 @@
 
-# Build settings
-remote_theme: 18F/uswds-jekyll
-
 # Site settings
 title: FAIR Digital Objects
 description: Turning Data to Knowledge
@@ -12,7 +9,7 @@ github:
   repository: fairdo.github.io
   default_branch: master
 
-theme: uswds-jekyll
+reomte_theme: uswds-jekyll
 url: "https://fairdo.org" # the base hostname & protocol for your site
 plugins:
   - jekyll-redirect-from
