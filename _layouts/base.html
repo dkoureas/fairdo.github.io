@@ -47,6 +47,7 @@
     {% include styles.html %}
   </head>
   <body class="lg-flex flex-column {{ layout.class }} {{ page.class }} {{ page.slug }}" style="min-height:100vh">
+    {% include header.html %}
     
     <div class="flex-auto">
       {% include alert.html %}
@@ -54,5 +55,6 @@
       {{ content }}
       </main>
     </div>
+    {% include footer.html %}
     </body>
 </html>
