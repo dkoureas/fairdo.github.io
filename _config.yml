@@ -4,7 +4,7 @@ title: FAIR Digital Objects
 description: Turning Data to Knowledge
 image: /assets/img/twitter_profile.png
 twitter: https://twitter.com/resdatall/
-github:
+github_info:
   organization: fairdo
   repository: fairdo.github.io
   default_branch: master
