@@ -1,10 +1,10 @@
-<header class="usa-header usa-header-extended" role="banner">  
+<header class="usa-header" role="banner">  
 <div class="usa-navbar">
     <button class="usa-menu-btn">Menu</button>
     <div class="usa-logo" id="logo">
       <em class="usa-logo-text">
         <a href="{% if header.href %}{{ header.href }}{% else %}{{ site.baseurl }}/{% endif %}" title="Home" class="flex items-center">
-          <img src="{{ site.baseurl }}/assets/img/fdo-content-transp.png" alt="Logo" class="mr1 lg-mr2" width="126px">
+          <img src="{{ site.baseurl }}/assets/img/fdo-content-transp.png" alt="Logo" width="126px" class="mr1 lg-mr2">
           {{ header.title | default: site.title }}
         </a>
       </em>
