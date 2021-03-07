@@ -2212,6 +2212,9 @@ fieldset{
 		line-height:7.5rem;
 		margin-left:0
 }
+    img {
+      width: 126px;
+    }
 }
 .usa-logo a{
 	color:#394040;
