@@ -2192,11 +2192,21 @@ fieldset{
 		max-width:21.5rem
 }
 }
-.usa-logo{
-	float:left;
-	line-height:4rem;
-	margin-left:1.5rem
-}
+
+usa-logo {
+    margin-left: 0;
+
+    em {
+      font-size: $h2-font-size;
+      font-weight: 300;
+    }
+
+    img {
+      width: 126px;
+    }
+  }
+
+
 @media screen and (min-width: 951px){
 	.usa-logo{
 		line-height:7.5rem;
@@ -4782,13 +4792,13 @@ fieldset{
 	border-color:#f0eee8
 }
 .usa-layout-docs .usa-accordion-button{
-	background-color:#faf8f2
+	background-color:#f2faf8
 }
 .usa-layout-docs .usa-accordion-button:hover{
 	background-color:#f0eee8
 }
 .bg-tan{
-	background-color:#faf8f2
+	background-color:#f2faf8
 }
 .bg-tan-dark{
 	background-color:#f0eee8
@@ -4832,7 +4842,7 @@ fieldset{
 	margin-bottom:0
 }
 .example-container{
-	background-color:#faf8f2;
+	background-color:#f2faf8;
 	border:1px solid #f0eee8;
 	border-radius:4px;
 	font-family:"18Franklin-webfont",system,-apple-system,BlinkMacSystemFont,"Roboto","Helvetica Neue","Helvetica","Arial",sans-serif;
@@ -4870,7 +4880,7 @@ fieldset{
 	width:50%
 }
 .example-table thead th,.example-table thead td{
-	background-color:#faf8f2;
+	background-color:#f2faf8;
 	font-size:1.5rem;
 	font-weight:600
 }
@@ -4912,7 +4922,7 @@ fieldset{
 	padding-left:0
 }
 .example-side-by-side>li{
-	background-color:#faf8f2;
+	background-color:#f2faf8;
 	border:1px solid #f0eee8;
 	border-radius:4px;
 	margin-bottom:1.5rem;
@@ -5023,10 +5033,10 @@ fieldset{
 }
 }
 input,textarea,select{
-	border:1px solid #d5e5ed
+	border:1px solid #edd5d9
 }
 .usa-header{
-	border-color:#d5e5ed
+	border-color:#edd5d9
 }
 .usa-skipnav{
 	z-index:10000
@@ -5081,7 +5091,7 @@ input,textarea,select{
 }
 .usa-navbar{
 	background-color:#fff;
-	border-color:#d5e5ed
+	border-color:#edd5d9
 }
 @media (min-width: 600px){
 	.usa-logo{
@@ -5093,7 +5103,7 @@ input,textarea,select{
 		position:static
 }
 	.usa-header-extended .usa-nav{
-		border-color:#d5e5ed
+		border-color:#edd5d9
 }
 	.usa-logo{
 		margin-left:0
@@ -5439,7 +5449,7 @@ h6 .icon,.h6 .icon{
 }
 }
 .pagination{
-	border-top:1px solid #d5e5ed;
+	border-top:1px solid #edd5d9;
 	margin-top:3rem;
 	padding-top:3rem
 }
@@ -5453,7 +5463,7 @@ h6 .icon,.h6 .icon{
 	margin-right:0
 }
 .guidelines img{
-	border:3px solid #d5e5ed;
+	border:3px solid #edd5d9;
 	width:90px
 }
 .guidelines a{
@@ -5485,7 +5495,7 @@ h6 .icon,.h6 .icon{
 	color:#386991
 }
 .usa-sidenav-list>li{
-	border-color:#d5e5ed
+	border-color:#edd5d9
 }
 .usa-sidenav-sub_list a,.usa-sidenav-sub_list a:hover,.usa-sidenav-sub_list a.usa-current{
 	padding-left:1.5rem
@@ -5601,7 +5611,7 @@ h1{
 	border-color:#f0eee8
 }
 .usa-layout-docs-main_content>table thead th,.usa-layout-docs-main_content>table thead td{
-	background-color:#faf8f2
+	background-color:#f2faf8
 }
 @media (max-width: 951px){
 	.usa-layout-docs-main_content{
@@ -5621,7 +5631,7 @@ h1{
 	margin-bottom:0
 }
 .home-grid .usa-grid a{
-	border:1px solid #d5e5ed;
+	border:1px solid #edd5d9;
 	border-radius:8px;
 	display:block;
 	margin-bottom:3rem;
@@ -5645,7 +5655,7 @@ h1{
 	color:#386991
 }
 .home-grid .usa-grid a:hover .icon-large{
-	background-color:#d5e5ed
+	background-color:#edd5d9
 }
 .home-hero h1{
 	max-width:80rem
