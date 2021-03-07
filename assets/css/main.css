@@ -5627,45 +5627,69 @@ h1{
 		padding:5rem 3rem
 }
 }
-.home .usa-navbar{
-	border:0
+home .usa-navbar {
+  border: 0;
 }
-.home-grid>:last-child>:last-child{
-	margin-bottom:0
+
+.home-grid {
+  > :last-child > :last-child {
+    margin-bottom: 0;
+  }
+
+  .usa-grid a {
+    border: 1px solid $border-color;
+    border-radius: 8px;
+    display: block;
+    margin-bottom: $spacing-medium;
+    text-decoration: none;
+
+    h3 {
+      color: $color-primary;
+      margin-top: 0;
+    }
+
+    p {
+      color: $color-base;
+    }
+
+    .icon-large {
+      float: left;
+      margin-right: $spacing-md-small;
+    }
+
+    &:hover {
+      background-color: $color-blue-light;
+
+      h3 {
+        color: $color-primary-darker;
+      }
+
+      .icon-large {
+        background-color: $border-color;
+      }
+    }
+  }
 }
-.home-grid .usa-grid a{
-	border:1px solid #edd5d9;
-	border-radius:8px;
-	display:block;
-	margin-bottom:3rem;
-	text-decoration:none
+
+.home-hero h1 {
+  max-width: 80rem;
 }
-.home-grid .usa-grid a h3{
-	color:#3f76a3;
-	margin-top:0
+
+.home-events p {
+  max-width: $lead-max-width;
 }
-.home-grid .usa-grid a p{
-	color:#394040
+
+@media #{$breakpoint-md} {
+  .home-grid > :last-child > a {
+    margin-bottom: 0;
+  }
+
+  .home-grid .usa-grid  a:first-child {
+    margin-right: $spacing-medium;
+  }
 }
-.home-grid .usa-grid a .icon-large{
-	float:left;
-	margin-right:1.5rem
-}
-.home-grid .usa-grid a:hover{
-	background-color:#ebf3f7
-}
-.home-grid .usa-grid a:hover h3{
-	color:#386991
-}
-.home-grid .usa-grid a:hover .icon-large{
-	background-color:#edd5d9
-}
-.home-hero h1{
-	max-width:80rem
-}
-.home-events p{
-	max-width:77rem
-}
+
+
 @media (min-width: 600px){
 	.home-grid>:last-child>a{
 		margin-bottom:0
