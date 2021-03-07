@@ -1,6 +1,6 @@
 
 # Build settings
-theme: uswds-jekyll
+remote_theme: 18F/uswds-jekyll
 
 # Site settings
 title: FAIR Digital Objects
