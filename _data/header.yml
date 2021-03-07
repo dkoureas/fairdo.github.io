@@ -1,0 +1,23 @@
+type: extended
+
+primary:
+  links:
+    - text: Home
+      href: /
+    - text: Working Groups
+      href: /wg/
+      links: wg
+    - text: Examples
+      href: /examples/
+      links: examples
+    - text: Publications
+      href: /publications/
+      links: publications
+    - text: About
+      href: /about/
+      links: about
+
+secondary:
+  search:
+    action: /search/
+    query: q
