@@ -18,6 +18,6 @@ The FAIR Digital Object is a Digital Object (DO) (DO as defined by [Robert Kahn]
 
 See FAIR Digital Objects in action
 
-- [DiSSCo](https://dissco.eu/)
+- [DiSSCo](https://dissco.eu/) 
 - [The Enhanced Robust Persistent Identification of Data (E-RPID)](https://rpidproject.github.io/rpid/)
-- [https://www.go-fair.org/2020/03/02/prototype-fair-digital-object-for-molecular-structure/](FAIR molecules)
+- [FAIR molecues](https://www.go-fair.org/2020/03/02/prototype-fair-digital-object-for-molecular-structure/)
