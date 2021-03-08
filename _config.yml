@@ -52,7 +52,7 @@ collections:
     description: "news and events" # The post list page content
     feature_text: |
       News and events related to FAIR Digital Objects 
-    feature_image: "/assets/splash.jpeg"
+    feature_image: "/assets/book-glasses.jpeg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -104,7 +104,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-  - title: source code for this site
+  - title: github 
     url: https://github.com/fairdo/fairdo.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
