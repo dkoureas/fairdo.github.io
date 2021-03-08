@@ -8,15 +8,12 @@ layout: default
 
   <article class="article  article--page  content  typeset">
 
-    <h1>Publications</h1>
 
-<hr>
+### 2021
 
-<h2> 2021</h2>
+Wittenburg, P., 2021. _Open science and data science_. Data Intelligence, pp.1-11. [DOI](https://doi.org/10.1162/dint_a_00082)
 
-Wittenburg, P., 2021. <i>Open science and data science</i>. Data Intelligence, pp.1-11.(<a href="https://doi.org/10.1162/dint_a_00082">[DOI]</a>
-
-<h2> 2020</h2>
+### 2020
 
 De Smedt, K., Koureas, D. and Wittenburg, P., 2020. _FAIR digital objects for science: from data pieces to actionable knowledge units_. Publications, 8(2), p.21. [DOI](https://doi.org/10.3390/publications8020021)
 
@@ -25,6 +22,3 @@ Islam, S., Hardisty, A., Addink, W., Weiland, C. and Glöckler, F., 2020. _Incor
 
   </article>
 
-
-
-{% include site-footer.html %}

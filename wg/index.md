@@ -11,13 +11,10 @@ layout: default
     <h1>Working Groups</h1>
 
 Current working groups endorsed by the steering commitee
-<p>
-<li>
-<ul> 1.FDO-eING eInfrastructure Group</ul>
 
-<ul> 2.FDO-BIG Basic Infrastructure Group</ul>
-</li>
+1.FDO-eING eInfrastructure Group
+2.FDO-BIG Basic Infrastructure Group
+
 
   </article>
 
-{% include site-footer.html %}
