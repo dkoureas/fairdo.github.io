@@ -2,7 +2,7 @@
 #
 # About Theme
 #
-theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 #
 # Website: https://github.com/jeffreytse/jekyll-theme-yat
 #
