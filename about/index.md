@@ -1,6 +1,5 @@
 ---
-layout: default
-
+layout: page
 ---
 
 {% include site-header.html %}

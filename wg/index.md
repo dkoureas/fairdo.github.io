@@ -1,6 +1,6 @@
 ---
 title: Working Groups
-layout: categories
+layout: page
 aside: true
 ---
 
