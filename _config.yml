@@ -85,7 +85,8 @@ night_mode: "off"
 #   home:
 #     heading: "Your awesome heading"
 #     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+
+banner: "assets/image/banner/fdo-content-transp.png"
 
 # Excerpt size setting
 # excerpt_size: 350
