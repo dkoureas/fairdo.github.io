@@ -3,7 +3,7 @@ title: About FAIR Digital Objects
 feature_text: |
   ## FAIR Digital Objects
   Turning Data Into Knowledge
-feature_image: "/assets/uv-banner.jpeg"
+feature_image: "/assets/banner.jpeg"
 
 ---
 
