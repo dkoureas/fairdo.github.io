@@ -1,5 +1,7 @@
 ---
 layout: page
+title: About FAIR Digital Objects
+feature_image: "/assets/power-grid.jpeg"
 ---
 
 ## Definition 

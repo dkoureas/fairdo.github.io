@@ -1,6 +1,7 @@
 ---
 title: Working Groups
 layout: page
+feature_image: "/assets/working-group-aircraft.jpeg"
 ---
 
 Current working groups endorsed by the steering commitee
