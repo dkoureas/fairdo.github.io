@@ -47,12 +47,12 @@ timezone: Europe/Amsterdam # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: News # Needed for Siteleaf
     output: true
-    description: "thoughts and ideas" # The post list page content
+    description: "news and events" # The post list page content
     feature_text: |
-      Welcome to the site about FAIR Digital Objects
-    feature_image: "/assets/banner.jpeg"
+      News and events related to FAIR Digital Objects 
+    feature_image: "/assets/splash.jpeg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -104,7 +104,8 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-  Github: https://github.com/fairdo/fairdo.github.io
+  - title: source code for this site
+    url: https://github.com/fairdo/fairdo.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   GitHub: https://github.com/fairdo/fairdo.github.io
