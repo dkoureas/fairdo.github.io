@@ -1,6 +1,7 @@
 ---
 title: Publicaions 
 layout: page
+feature_image: "/assets/notebook.jpeg"
 description: >-
  Publications related to the FAIR Digital Object concept.
 ---
